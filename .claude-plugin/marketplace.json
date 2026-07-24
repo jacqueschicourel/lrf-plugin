@@ -1,0 +1,12 @@
+{
+  "name": "lrf-plugin",
+  "description": "Marketplace do plugin LRF — análise de treino de ciclismo com o rigor de um treinador, a partir de dados do Strava.",
+  "owner": { "name": "Jacques Chicourel" },
+  "plugins": [
+    {
+      "name": "lrf",
+      "source": "./",
+      "description": "Analisa suas sessões de ciclismo do Strava com o rigor de um treinador — 22 skills derivadas de um cânone de 4 livros de referência, sempre com a origem de cada número exposta (Medido/Calculado/Estimado/Manual/Ausente)."
+    }
+  ]
+}

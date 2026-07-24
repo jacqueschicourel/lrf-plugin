@@ -1,0 +1,11 @@
+{
+  "name": "lrf",
+  "displayName": "LRF — Análise de Treino de Ciclismo",
+  "version": "0.1.0",
+  "description": "Analisa suas sessões de ciclismo do Strava com o mesmo rigor de um treinador: aplica um cânone de 22 skills derivadas de 4 livros de referência (fisiologia do exercício, treino com potência, VO2máx, periodização), sempre mostrando a origem de cada número (Medido, Calculado, Estimado, Manual ou Ausente) e nunca inventando um dado que a sessão não sustenta.",
+  "author": { "name": "Jacques Chicourel" },
+  "homepage": "https://github.com/jacqueschicourel/lrf-plugin",
+  "repository": "https://github.com/jacqueschicourel/lrf-plugin",
+  "license": "MIT",
+  "keywords": ["ciclismo", "cycling", "strava", "treino", "power-meter", "training-analysis", "fitness"]
+}
